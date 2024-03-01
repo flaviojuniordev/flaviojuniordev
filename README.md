@@ -35,6 +35,6 @@ Breve descrição do projeto e suas tecnologias principais.
 
 - **E-mail:** devflaviojunior@gmail.com
 - **Twitter:** https://twitter.com/flaviojrdev
-- **LinkedIn:** linkedin.com/in/flaviojrdev
+- **LinkedIn:** https://www.linkedin.com/in/flaviojrdev/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
