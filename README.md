@@ -16,7 +16,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Metodologias:** Scrum
 - **Ferramentas:** Git, VS Code, Eclipse
 
-/*
 ## Projetos Destacados
 
 ### [Nome do Projeto]
@@ -30,7 +29,7 @@ Breve descrição do projeto e suas tecnologias principais.
 ## Contribuições
 
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
-*/
+
 ## Contato
 
 - **E-mail:** devflaviojunior@gmail.com
