@@ -13,7 +13,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Linguagens de Programação:** Python, C, Java, JavaScript
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum
+- **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
 
 ## Projetos Destacados
