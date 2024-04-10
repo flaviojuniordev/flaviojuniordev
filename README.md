@@ -5,8 +5,8 @@
 <p align="center">Eu 💜 resolver desafios usando tecnologia. <br><br> Olá! Sou um estudante de Engenharia de Software na renomada PUC Minas, onde tenho mergulhado nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir de forma significativa para projetos inovadores. Com uma mente inquisitiva e ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=flaviojuniordev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=flaviojuniordev&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=flaviojuniordev&theme=tokyonight&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=flaviojuniordev&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
  &nbsp;
