@@ -61,6 +61,26 @@
 <a href="https://www.linkedin.com/in/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 
+-----
+
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/img/spotify.gif?raw=true"/> Flavio's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21zyhhsyyfxodmwn6oe46xudq" alt="Data Card for Spotify">
+</details>
+</div>
+<div>
+<!--- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://www.last.fm/pt/user/flaviojunior27" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=flaviojunior27&width=400"/></a>
+</div>
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=21zyhhsyyfxodmwn6oe46xudq&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
+</div>
+</div>
+
+-----
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c671d9&height=120&section=footer"/>
