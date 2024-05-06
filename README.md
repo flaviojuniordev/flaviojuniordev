@@ -65,7 +65,7 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/img/spotify.gif?raw=true"/> Flavio's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Flavio's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21zyhhsyyfxodmwn6oe46xudq" alt="Data Card for Spotify">
 </details>
 </div>
