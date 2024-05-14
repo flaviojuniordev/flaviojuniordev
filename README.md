@@ -65,6 +65,16 @@
 <a href = "mailto:devflaviojunior@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
+-----
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
+</details>
+</div>
+<div align="justify">
+ Sou estudante de Engenharia de Software na PUC Minas, onde mergulho nas profundezas da tecnologia e da programação. Desde 2021, atuo como desenvolvedor full stack, trilhando um caminho que começou com a familiaridade com HTML, CSS e JavaScript. Durante minha jornada acadêmica, aprofundei-me em linguagens como C, o que me transformou em um entusiasta dessa poderosa ferramenta de programação. Tenho uma inclinação natural para aprender através da leitura de livros e sou ávido por absorver novos conhecimentos. Minha paixão por tecnologia remonta à infância, quando ganhei meu primeiro computador aos 4 anos de idade. Desde então, o interesse pelo mundo digital só cresceu. Minha curiosidade, embora tenha me levado a algumas situações desafiadoras na infância, foi fundamental para meu desenvolvimento profissional, permitindo-me adquirir o conhecimento que possuo hoje.
+</div>
+
 
 -----
 
