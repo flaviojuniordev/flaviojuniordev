@@ -72,7 +72,13 @@
 </details>
 </div>
 <div align="justify">
- Sou estudante de Engenharia de Software na PUC Minas, onde mergulho nas profundezas da tecnologia e da programação. Desde 2021, atuo como desenvolvedor full stack, trilhando um caminho que começou com a familiaridade com HTML, CSS e JavaScript. Durante minha jornada acadêmica, aprofundei-me em linguagens como C, o que me transformou em um entusiasta dessa poderosa ferramenta de programação. Tenho uma inclinação natural para aprender através da leitura de livros e sou ávido por absorver novos conhecimentos. Minha paixão por tecnologia remonta à infância, quando ganhei meu primeiro computador aos 4 anos de idade. Desde então, o interesse pelo mundo digital só cresceu. Minha curiosidade, embora tenha me levado a algumas situações desafiadoras na infância, foi fundamental para meu desenvolvimento profissional, permitindo-me adquirir o conhecimento que possuo hoje.
+ 
+ Me chamo Flávio Junior, e sou estudante de Engenharia de Software na PUC Minas, uma jornada que me levou a explorar profundamente o universo da tecnologia e da programação. Desde 2021, tenho atuado como desenvolvedor full stack, uma trajetória que teve início com a familiarização com as linguagens HTML, CSS e JavaScript. Durante minha jornada acadêmica, mergulhei mais fundo no estudo da linguagem C, o que despertou em mim um entusiasmo genuíno por sua potência e versatilidade.
+
+
+ Desde o Ensino Médio, descobri que tenho uma habilidade natural para interagir e me comunicar com as pessoas, uma qualidade que se mostrou valiosa em minha carreira e vida pessoal. Além disso, sou um ávido adepto do desenvolvimento pessoal, sempre buscando oportunidades para aprender e crescer. Uma das minhas formas favoritas de absorver conhecimento é através da leitura de livros, uma paixão que me acompanha desde cedo.
+
+ Minha paixão pela tecnologia é algo que carrego comigo desde a infância. Lembro-me vividamente do dia em que ganhei meu primeiro computador, aos 4 anos de idade, um momento que marcou o início de uma jornada fascinante e repleta de descobertas. Minha curiosidade incessante, embora tenha me colocado diante de desafios ao longo do caminho, foi fundamental para meu desenvolvimento pessoal e profissional. Cada obstáculo superado contribuiu para a construção do conhecimento que possuo hoje, moldando-me em quem sou e impulsionando-me em direção aos meus objetivos.
 </div>
 
 
