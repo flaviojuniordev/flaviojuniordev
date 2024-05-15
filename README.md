@@ -66,6 +66,8 @@
 <a href="https://www.linkedin.com/in/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 -----
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=flaviojuniordev&blueviolet"/>
+-----
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
