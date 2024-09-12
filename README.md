@@ -1,5 +1,5 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="imgs/flaviojunirodevheader.png" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; 
 
 
 <p align="center">Eu 💜 resolver desafios usando tecnologia. <br><br> <p align="left">Olá! Sou um estudante de Engenharia de Software na renomada PUC Minas, onde tenho mergulhado nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Como desenvolvedor full stack, estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir de forma significativa para projetos inovadores. Com uma mente inquisitiva e ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente.</p>
