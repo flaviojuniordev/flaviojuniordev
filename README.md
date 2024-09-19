@@ -116,6 +116,8 @@
 </div>
 
 -----
+
+![Metrics](/github-metrics.svg)
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c671d9&height=120&section=footer"/>
