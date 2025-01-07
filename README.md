@@ -8,7 +8,7 @@
  </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=flaviojuniordev&theme=tokyonight&mode=weekly" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=flaviojuniordev&theme=tokyonight-duo&locale=pt_BR" alt="GitHub Streak" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=flaviojuniordev&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
