@@ -21,7 +21,7 @@
  &nbsp;
  &nbsp;
  
-## 💻 My Skills
+## 💻 Minhas Habilidades
 
 #### Linguagens:
 
@@ -113,7 +113,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Entre em contato:
 
 <div> 
 <a href="https://www.instagram.com/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -123,18 +123,10 @@
 <a href="https://api.whatsapp.com/send?phone=5531988776303&text=%0AOl%C3%A1%20Fl%C3%A1vio%2C%20tenho%20interesse%20em%20fazer%20um%20or%C3%A7amento%20personalizado!" target="_blank"><img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"  target="_blank"></a>
 </div> 
 
-
------
-
-<p align="left">
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=flaviojuniordev&color=blueviolet"/>
-<img alt="Full time" src="https://wakatime.com/badge/user/8426a487-f911-438f-aead-d9247fe04361.svg" />
-</p>
-
 -----
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Um pouco sobre mim:</summary>
 </details>
 </div>
 <div align="justify">
@@ -167,6 +159,13 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
 </div>
 </div>
+
+-----
+
+<p align="left">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=flaviojuniordev&color=blueviolet"/>
+<img alt="Full time" src="https://wakatime.com/badge/user/8426a487-f911-438f-aead-d9247fe04361.svg" />
+</p>
 
 -----
   
