@@ -67,7 +67,10 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" />
   &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="50" height="50" alt="codeigniter" />           
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="50" height="50" alt="codeigniter" />
+  &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" height="50" alt="graphql" />
+ 
 </p>
 
 #### Banco de Dados:
