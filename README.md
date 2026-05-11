@@ -132,9 +132,7 @@ Personal projects and case-style highlights — **live on Vercel**, **versioned 
 [![Live site](https://img.shields.io/badge/LIVE+SITE-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://flaviojunior-portfolio.vercel.app/)
 [![Source code](https://img.shields.io/badge/SOURCE+CODE-1a1a1a?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/flaviojuniordev/flaviojunior-portfolio)
 
-<br/><br/>
-
-<sub>Repository snapshot</sub>
+<br/>
 
 </div>
 
