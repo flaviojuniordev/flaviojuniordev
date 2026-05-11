@@ -1,183 +1,170 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="imgs/flaviojunirodevheader.png" />
-&nbsp;&nbsp;&nbsp; 
-
-
-<p align="center">Eu 💜 resolver desafios usando tecnologia. <br><br> <p align="left">Olá! Sou um estudante de Engenharia de Software na renomada PUC Minas, onde mergulho nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Como desenvolvedor full stack, estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir para projetos inovadores. <a href="https://flaviojunior-portfolio.vercel.app/" target="_blank"><strong>Conheça meu portfólio</strong></a> </p>
-
-
- </p>&nbsp;
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=flaviojuniordev&theme=tokyonight-duo&locale=pt_BR" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=flaviojuniordev&show_icons=true&theme=tokyonight&layout=compact" width="400px" />
-    </td>
-  </tr>
-</table>
- 
- &nbsp;
- &nbsp;
- 
-## 💻 Minhas Habilidades
-
-#### Linguagens:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeSCript"  />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" alt="C#" />
-  &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby" />
-  &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
- &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="50" height="50" alt="GO" />
-          
-</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Frameworks & Bibliotecas:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="Nest" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"  width="50" height="50" alt="Rails" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" />
-  &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="50" height="50" alt="codeigniter" />
-  &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" height="50" alt="graphql" />
- 
-</p>
-
-#### Banco de Dados:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis"/>
-         
-</p>
-
-#### Ferramentas e IDEs:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" width="50" height="50" alt="Unreal" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" />
-</p>
-
-&nbsp;
-&nbsp;
-
-## Entre em contato:
-
-<div> 
-<a href="https://www.instagram.com/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:devflaviojunior@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://api.whatsapp.com/send?phone=5531988776303&text=%0AOl%C3%A1%20Fl%C3%A1vio%2C%20tenho%20interesse%20em%20fazer%20um%20or%C3%A7amento%20personalizado!" target="_blank"><img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"  target="_blank"></a>
-</div> 
-
------
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Um pouco sobre mim:</summary>
-</details>
-</div>
-<div align="justify">
- 
- Me chamo Flávio Junior, e sou estudante de Engenharia de Software na PUC Minas, uma jornada que me levou a explorar profundamente o universo da tecnologia e da programação. Desde 2021, tenho atuado como desenvolvedor full stack, uma trajetória que teve início com a familiarização com as linguagens HTML, CSS e JavaScript. Durante minha jornada acadêmica, mergulhei mais fundo no estudo da linguagem C, o que despertou em mim um entusiasmo genuíno por sua potência e versatilidade.
-
-
- Desde o Ensino Médio, descobri que tenho uma habilidade natural para interagir e me comunicar com as pessoas, uma qualidade que se mostrou valiosa em minha carreira e vida pessoal. Além disso, sou um ávido adepto do desenvolvimento pessoal, sempre buscando oportunidades para aprender e crescer. Uma das minhas formas favoritas de absorver conhecimento é através da leitura de livros, uma paixão que me acompanha desde cedo.
-
- Minha paixão pela tecnologia é algo que carrego comigo desde a infância. Lembro-me vividamente do dia em que ganhei meu primeiro computador, aos 4 anos de idade, um momento que marcou o início de uma jornada fascinante e repleta de descobertas. Minha curiosidade incessante, embora tenha me colocado diante de desafios ao longo do caminho, foi fundamental para meu desenvolvimento pessoal e profissional. Cada obstáculo superado contribuiu para a construção do conhecimento que possuo hoje, moldando-me em quem sou e impulsionando-me em direção aos meus objetivos.
+<!-- BANNER -->
+<div align="center">
+  <img src="imgs/banner.jpg" width="100%" alt="banner"/>
 </div>
 
-
------
-
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Flavio's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21zyhhsyyfxodmwn6oe46xudq" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!--- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/flaviojunior27" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=flaviojunior27&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zyhhsyyfxodmwn6oe46xudq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> &nbsp; &nbsp;
- 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
-</div>
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=620&lines=Full+Cycle+Developer;Software+Engineer+Student" alt="Typing SVG"/>
 </div>
 
------
+<br/>
 
-<p align="left">
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=flaviojuniordev&color=blueviolet"/>
-<img alt="Full time" src="https://wakatime.com/badge/user/8426a487-f911-438f-aead-d9247fe04361.svg" />
-</p>
+<!-- CONTACT -->
+<div align="center">
 
------
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviojrdev/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://flaviojunior-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=flat-square&logo=instagram&logoColor=c9a84c)](https://www.instagram.com/flaviojrdev/)
+[![Gmail](https://img.shields.io/badge/GMAIL-1a1a1a?style=flat-square&logo=gmail&logoColor=c9a84c)](mailto:devflaviojunior@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-1a1a1a?style=flat-square&logo=whatsapp&logoColor=c9a84c)](https://api.whatsapp.com/send?phone=5531988776303&text=Hello%20Fl%C3%A1vio%2C%20I%27m%20interested%20in%20a%20personalized%20quote!)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=flaviojuniordev&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+**Full Cycle Developer**
+
+> *I love solving challenges with technology.*
+
+Software Engineer focused on backend development, optimization, and building scalable systems, passionate about understanding how things work behind the scenes and how to make them more efficient, fast, and resilient. I have a strong interest in software architecture, performance engineering, and Infrastructure as Code (IaC), always aiming to create well-structured solutions that scale sustainably without sacrificing simplicity. I'm not attached to specific languages or stacks, I enjoy technology for what it enables people to build and the impact it can create when used the right way.
+
+<img align="right" width="240px" src="imgs/char.jpg" alt="Character"/>
+
+```
+◈  Class      →  Full Cycle Developer
+◈  Origin     →  Brazil 🇧🇷
+◈  Covenant   →  Open Source & solid engineering
+◈  Build      →  Polyglot
+◈  Status     →  Software Engineering — PUC Minas
+```
+
+<br clear="right"/>
+
+---
+
+## Technologies
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=c9a84c)
+![C%23](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=c9a84c)
+![Ruby](https://img.shields.io/badge/Ruby-111?style=for-the-badge&logo=ruby&logoColor=c9a84c)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
+![Go](https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=c9a84c)
+![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=c9a84c)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
+![NestJS](https://img.shields.io/badge/NestJS-111?style=for-the-badge&logo=nestjs&logoColor=c9a84c)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django&logoColor=c9a84c)
+![Rails](https://img.shields.io/badge/Rails-111?style=for-the-badge&logo=rubyonrails&logoColor=c9a84c)
+![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=c9a84c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=c9a84c)
+![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis&logoColor=c9a84c)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=c9a84c)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
+![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
+![GraphQL](https://img.shields.io/badge/GraphQL-111?style=for-the-badge&logo=graphql&logoColor=c9a84c)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+
+</div>
+
+---
+
+## Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=flaviojuniordev&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=flaviojuniordev&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&locale=en"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojuniordev&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&locale=en"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flaviojuniordev&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/flaviojuniordev)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
+  <img alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
 </picture>
 
------  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c671d9&height=120&section=footer"/>
+---
+
+## Education
+
+| | Course / path | Status |
+|:---:|:---|:---:|
+| ◈ | Software Engineering — PUC Minas | In progress |
+| ◈ | Professional development (since 2021) | Active |
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![flaviojunior-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=flaviojuniordev&repo=flaviojunior-portfolio&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/flaviojuniordev/flaviojunior-portfolio)
+
+</div>
+
+---
+
+<details>
+<summary><img height="20" alt="Spotify" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> What I've been listening to</summary>
+
+<div align="center">
+
+*Recent tracks and habits — pulled live from Spotify & Last.fm. Whatever is on rotation while I ship.*
+
+<br/><br/>
+
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21zyhhsyyfxodmwn6oe46xudq" alt="Data Card for Spotify">
+
+<a href="https://www.last.fm/pt/user/flaviojunior27" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=flaviojunior27&width=400"/></a>
+
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zyhhsyyfxodmwn6oe46xudq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
+
+</details>
+
+---
+
+<div align="center">
+
+*Building solutions, one commit at a time.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=120&section=footer"/>
