@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="imgs/banner.jpg" width="100%" alt="banner"/>
+  <img src="imgs/banner.webp" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -37,7 +37,7 @@
 
 Software Engineer focused on backend development, optimization, and building scalable systems, passionate about understanding how things work behind the scenes and how to make them more efficient, fast, and resilient. I have a strong interest in software architecture, performance engineering, and Infrastructure as Code (IaC), always aiming to create well-structured solutions that scale sustainably without sacrificing simplicity. I'm not attached to specific languages or stacks, I enjoy technology for what it enables people to build and the impact it can create when used the right way.
 
-<img align="right" width="240px" src="imgs/char.jpg" alt="Character"/>
+<img align="right" width="240px" src="imgs/char.webp" alt="Character"/>
 
 ```
 ◈  Class      →  Full Cycle Developer
