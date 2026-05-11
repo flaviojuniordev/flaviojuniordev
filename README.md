@@ -136,10 +136,6 @@ Personal projects and case-style highlights — **live on Vercel**, **versioned 
 
 <sub>Repository snapshot</sub>
 
-<br/>
-
-[![flaviojunior-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=flaviojuniordev&repo=flaviojunior-portfolio&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/flaviojuniordev/flaviojunior-portfolio)
-
 </div>
 
 ---
