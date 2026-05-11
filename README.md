@@ -33,7 +33,7 @@
 
 **Full Cycle Developer**
 
-> *I love solving challenges with technology.*
+> *I love solving challenges.*
 
 Software Engineer focused on backend development, optimization, and building scalable systems, passionate about understanding how things work behind the scenes and how to make them more efficient, fast, and resilient. I have a strong interest in software architecture, performance engineering, and Infrastructure as Code (IaC), always aiming to create well-structured solutions that scale sustainably without sacrificing simplicity. I'm not attached to specific languages or stacks, I enjoy technology for what it enables people to build and the impact it can create when used the right way.
 
@@ -93,11 +93,6 @@ Software Engineer focused on backend development, optimization, and building sca
 
 <img src="https://streak-stats.demolab.com?user=flaviojuniordev&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
 
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=flaviojuniordev&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&locale=en"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojuniordev&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&locale=en"/>
-
 </div>
 
 ---
@@ -110,6 +105,9 @@ Software Engineer focused on backend development, optimization, and building sca
 
 </div>
 
+<details>
+<summary>Pac-Man contribution graph</summary>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
@@ -119,18 +117,11 @@ Software Engineer focused on backend development, optimization, and building sca
     src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-## Education
-
-| | Course / path | Status |
-|:---:|:---|:---:|
-| ◈ | Software Engineering — PUC Minas | In progress |
-| ◈ | Professional development (since 2021) | Active |
+</details>
 
 ---
 
-## Featured Projects
+## My Portfolio
 
 <div align="center">
 
@@ -156,6 +147,8 @@ Software Engineer focused on backend development, optimization, and building sca
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zyhhsyyfxodmwn6oe46xudq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
+
+</div>
 
 </details>
 
